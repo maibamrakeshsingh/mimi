@@ -15,7 +15,7 @@ I am a Data Scientist dedicated to helping you uncover meaningful insights and t
 
 <br><br>
 
-## Portfolio & Contact
+## Portfolio 
 <div class="section-box" style="margin-top: 10px;">
   {% include_relative _includes/publications.md %}
 </div>
@@ -23,7 +23,7 @@ I am a Data Scientist dedicated to helping you uncover meaningful insights and t
 
 <br><br>
 
-## Services
+## Services & Contact
 <div class="section-box"
      style="border: 1px solid #ddd;
             padding: 20px;
