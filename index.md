@@ -15,7 +15,7 @@ I am a Data Scientist dedicated to helping you uncover meaningful insights and t
 
 <br><br>
 
-## Portfolio
+## Portfolio & Contact
 <div class="section-box" style="margin-top: 10px;">
   {% include_relative _includes/publications.md %}
 </div>
