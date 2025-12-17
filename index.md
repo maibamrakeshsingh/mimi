@@ -25,7 +25,13 @@ layout: homepage
 </div>
 
 ## Services
+<div class="section-box"
+     style="border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+            background: #fafafa;
+            margin-top: 15px;">
 
-<div class="section-box">
   {% include_relative _includes/services.md %}
+
 </div>
