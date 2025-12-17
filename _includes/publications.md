@@ -1,4 +1,4 @@
-<h2 id="PortFolio" style="margin: 2px 0px -15px;">PortFolio</h2>
+<h2 id="" style="margin: 2px 0px -15px;"></h2>
 
 <div class="publications">
 <ol class="bibliography">
