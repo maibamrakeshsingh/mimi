@@ -12,5 +12,5 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>maibamrakeshsingh31@gmail.com</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>maibamrakeshsingh93@outlook.com</autocolor></a></li>
 </ul>
